@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Siber Gunes Celik
 
-<!--
-**sib-w/sib-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a molecular biologist and neuroscience graduate with hands-on experience in genome analysis and next-generation sequencing (NGS). I recently relocated to the U.S. and am currently expanding my skill set in bioinformatics, data science, and machine learning.
 
-Here are some ideas to get you started:
+🔬 **Background:**  
+- B.Sc. in Molecular Biology and Genetics  
+- M.Sc. in Neuroscience  
+- Former Genome Analyst at Gen Era Diagnostics (focused on clinical genetic testing and NGS data interpretation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **What I'm learning now:**  
+- Python for data science  
+- Git & GitHub  
+- Machine learning for genomics  
+- Data visualization (pandas, matplotlib, seaborn)  
+- Tools: Colab, Jupyter, scikit-learn  
+
+🧬 **Areas of interest:**  
+- Bioinformatics & genomic data analysis  
+- Translational research  
+- Conservation & evolutionary genomics  
+- Making science accessible to underserved communities
+
+📫 **How to reach me:**  
+- LinkedIn: [www.linkedin.com/in/sib--1b5510114]  
+- Email: [sibergunes@gmail.com]  
+- GitHub: You're already here!
+
+🌱 I'm currently working on personal projects that combine biology and machine learning, and I’m open to collaboration and new opportunities!
+
+
+
+
